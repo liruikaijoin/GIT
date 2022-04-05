@@ -8,7 +8,7 @@ package com.wd.git;/**
  */
 
 /**
- 作者：李瑞凯
+
  */
 public class Student {
     private String name;
